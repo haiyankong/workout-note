@@ -61,7 +61,7 @@ tocBorder: true
 - 始终保持弹力带张力
 - 双胳膊从大腿前侧开始绕过头顶一直向后向下拉，拉到拉不动的地方再回
 
-{{< figure src="workout-note/弹力带绕肩-前后.gif" width="500px" caption="弹力带绕肩-前后">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弹力带绕肩-前后.gif" width="500px" caption="弹力带绕肩-前后">}}
 
 ### 弹力带绕肩（对角线）
 
@@ -72,7 +72,7 @@ tocBorder: true
 - 肘关节伸直锁定
 - 始终保持弹力带张力
 
-{{< figure src="workout-note/弹力带绕肩-对角线.gif" width="500px" caption="弹力带绕肩-对角线">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弹力带绕肩-对角线.gif" width="500px" caption="弹力带绕肩-对角线">}}
 
 ## 背部
 
@@ -84,7 +84,7 @@ tocBorder: true
 
 - 始终保持弹力带张力
 
-{{< figure src="workout-note/弹力带下拉.gif" width="500px" caption="弹力带下拉">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弹力带下拉.gif" width="500px" caption="弹力带下拉">}}
 
 ### 弹力带颈后下拉
 
@@ -97,7 +97,7 @@ tocBorder: true
 - 双手伸直举过头顶，拉住弹力带向后夹背，双胳膊成 W 状
 - 整个过程中不要低头
 
-{{< figure src="workout-note/弹力带颈后下拉.gif" width="500px" caption="弹力带颈后下拉">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弹力带颈后下拉.gif" width="500px" caption="弹力带颈后下拉">}}
 
 ### 弹力带后拉
 
@@ -110,9 +110,9 @@ tocBorder: true
 - 大拇指朝后
 - 始终保持弹力带张力
 
-{{< figure src="workout-note/弹力带后拉1.gif" width="500px" caption="弹力带后拉1">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弹力带后拉1.gif" width="500px" caption="弹力带后拉1">}}
 
-{{< figure src="workout-note/弹力带后拉2.gif" width="500px" caption="弹力带后拉2">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弹力带后拉2.gif" width="500px" caption="弹力带后拉2">}}
 
 ## 臀腿
 
@@ -126,7 +126,7 @@ tocBorder: true
 - 右手撑地，左手沿躯干向上向后旋转，带动肩膀和头部一起转
 - 保持髋部稳定不晃动，重复 5 次后换边
 
-{{< figure src="workout-note/蜘蛛侠式弓步旋转拉伸.png" width="500px" caption="蜘蛛侠式弓步旋转拉伸">}}
+{{< figure src="https://haiyankong.github.io/workout-note/蜘蛛侠式弓步旋转拉伸.png" width="500px" caption="蜘蛛侠式弓步旋转拉伸">}}
 
 ### 交叉压腿触脚尖 / Rotating Toe Touches
 
@@ -140,7 +140,7 @@ tocBorder: true
 - 回到中间，再左手触右脚尖
 - 控制节奏，左右交替做满 20 次
 
-{{< figure src="workout-note/交叉压腿触脚尖.png" width="500px" caption="交叉压腿触脚尖">}}
+{{< figure src="https://haiyankong.github.io/workout-note/交叉压腿触脚尖.png" width="500px" caption="交叉压腿触脚尖">}}
 
 ### 高抬腿击掌 / High Knees with Clap
 
@@ -152,7 +152,7 @@ tocBorder: true
 - 每次抬腿时，膝盖尽量靠近手掌做击掌
 - 保持躯干稳定，节奏均匀做 30 次
 
-{{< figure src="workout-note/高抬腿击掌.png" width="500px" caption="高抬腿击掌">}}
+{{< figure src="https://haiyankong.github.io/workout-note/高抬腿击掌.png" width="500px" caption="高抬腿击掌">}}
 
 ### 直腿胯下击掌
 
@@ -170,7 +170,7 @@ tocBorder: true
 
 - 大腿后侧有牵拉感，抬腿时腹部有发力感
 
-{{< figure src="workout-note/直腿胯下击掌.png" width="500px" caption="直腿胯下击掌">}}
+{{< figure src="https://haiyankong.github.io/workout-note/直腿胯下击掌.png" width="500px" caption="直腿胯下击掌">}}
 
 # 肩部 / Shoulders
 
@@ -185,7 +185,7 @@ tocBorder: true
 - 另一侧手可以背着放，一方面可以保持稳定，另一方面也可以保证该侧肩也处于打开状态
 - 快拉慢放
 
-{{< figure src="workout-note/弹力带肩外旋.gif" width="500px" caption="弹力带肩外旋">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弹力带肩外旋.gif" width="500px" caption="弹力带肩外旋">}}
 
 ### 训练记录
 
@@ -210,7 +210,7 @@ tocBorder: true
 - 往上推起举过头顶
 - 双脚要支撑住
 
-{{< figure src="workout-note/阿诺德推肩.gif" width="500px" caption="阿诺德推肩">}}
+{{< figure src="https://haiyankong.github.io/workout-note/阿诺德推肩.gif" width="500px" caption="阿诺德推肩">}}
 
 ### 训练记录
 
@@ -232,7 +232,7 @@ tocBorder: true
 - 往上推至最高点，过程中保持小手臂垂直于地面
 - 往下落的时候注意一直往下落，不要只落回一点点，不然运动轨迹过短，运动效果不佳，另外回落过程中也要保持小手臂垂直于地面
 
-{{< figure src="workout-note/坐姿器械推肩.gif" width="500px" caption="坐姿器械推肩">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿器械推肩.gif" width="500px" caption="坐姿器械推肩">}}
 
 ### 训练记录
 
@@ -258,13 +258,13 @@ tocBorder: true
 - 快举，慢回
 - 注意：上述文字描述和图中略有不同，以文字描述为准
 
-{{< figure src="workout-note/哑铃侧平举.gif" width="500px" caption="哑铃侧平举">}}
+{{< figure src="https://haiyankong.github.io/workout-note/哑铃侧平举.gif" width="500px" caption="哑铃侧平举">}}
 
 不会沉肩可以单侧做，如下所示：
 
 <center>
 <video width="280" controls>
-    <source src="workout-note/哑铃侧平举-沉肩.mp4" type="video/mp4">
+    <source src="https://haiyankong.github.io/workout-note/哑铃侧平举-沉肩.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -286,7 +286,7 @@ tocBorder: true
 
 <center>
 <video width="280" controls>
-    <source src="workout-note/杠铃片前平举.mp4" type="video/mp4">
+    <source src="https://haiyankong.github.io/workout-note/杠铃片前平举.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -307,7 +307,7 @@ tocBorder: true
 - 将横杆弯举至胸前，集中收缩肱二头肌
 - 快提慢放：提起时呼气，控制下放时吸气
 
-{{< figure src="workout-note/直臂弯举.png" width="500px" caption="直臂弯举">}}
+{{< figure src="https://haiyankong.github.io/workout-note/直臂弯举.png" width="500px" caption="直臂弯举">}}
 
 ### 训练记录
 
@@ -333,7 +333,7 @@ tocBorder: true
 - 快提慢放：提起时呼气，控制下放时吸气
 - （图中的抓握方式略不同，以上述文字为准）
 
-{{< figure src="workout-note/杠铃弯举.gif" width="500px" caption="杠铃弯举">}}
+{{< figure src="https://haiyankong.github.io/workout-note/杠铃弯举.gif" width="500px" caption="杠铃弯举">}}
 
 ### 训练记录
 
@@ -356,11 +356,11 @@ tocBorder: true
 - 将哑铃弯举至胸前，集中收缩肱二头肌
 - 快提慢放：提起时呼气，控制下放时吸气
 
-{{< figure src="workout-note/哑铃弯举.gif" width="500px" caption="哑铃弯举">}}
+{{< figure src="https://haiyankong.github.io/workout-note/哑铃弯举.gif" width="500px" caption="哑铃弯举">}}
 
 <center>
 <video width="280" controls>
-    <source src="workout-note/哑铃弯举.mp4" type="video/mp4">
+    <source src="https://haiyankong.github.io/workout-note/哑铃弯举.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -389,11 +389,11 @@ tocBorder: true
 - 伸展肘部并收缩三头肌，将杠铃向下推，大臂不要离开躯干，保持躯干稳定不要晃动
 - 快拉慢回，慢慢回到起始位置，确保控制动作，不要让配重片在重复次数之间接触
 
-{{< figure src="workout-note/绳索三头肌下压.gif" width="500px" caption="绳索三头肌下压">}}
+{{< figure src="https://haiyankong.github.io/workout-note/绳索三头肌下压.gif" width="500px" caption="绳索三头肌下压">}}
 
 <center>
 <video width="280" controls>
-    <source src="workout-note/绳索三头肌下压.mp4" type="video/mp4">
+    <source src="https://haiyankong.github.io/workout-note/绳索三头肌下压.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -420,11 +420,11 @@ tocBorder: true
 - 把哑铃举过头，胳膊伸直（图中未伸直）
 - 慢慢地将哑铃放到脑后，同时保持上臂不动，仅弯曲肘部直至呈 90 度角
 
-{{< figure src="workout-note/坐姿哑铃颈后臂屈伸.gif" width="500px" caption="坐姿哑铃颈后臂屈伸">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿哑铃颈后臂屈伸.gif" width="500px" caption="坐姿哑铃颈后臂屈伸">}}
 
-{{< figure src="workout-note/坐姿哑铃颈后臂屈伸-正误对比1.png" width="500px" caption="坐姿哑铃颈后臂屈伸-正误对比1">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿哑铃颈后臂屈伸-正误对比1.png" width="500px" caption="坐姿哑铃颈后臂屈伸-正误对比1">}}
 
-{{< figure src="workout-note/坐姿哑铃颈后臂屈伸-正误对比2.png" width="500px" caption="坐姿哑铃颈后臂屈伸-正误对比2">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿哑铃颈后臂屈伸-正误对比2.png" width="500px" caption="坐姿哑铃颈后臂屈伸-正误对比2">}}
 
 ### 训练记录
 
@@ -448,9 +448,9 @@ tocBorder: true
 - 胳膊往里面抵着可以保证背部两侧的肌肉更被利用到，且也可以保证尽量不使用胳膊的力量
 - 快拉慢回，控制住
 
-{{< figure src="workout-note/辅助引体向上.png" width="500px" caption="辅助引体向上">}}
+{{< figure src="https://haiyankong.github.io/workout-note/辅助引体向上.png" width="500px" caption="辅助引体向上">}}
 
-{{< figure src="workout-note/pull-up-vs-muscle-up.gif" width="500px" caption="pull-up-vs-muscle-up">}}
+{{< figure src="https://haiyankong.github.io/workout-note/pull-up-vs-muscle-up.gif" width="500px" caption="pull-up-vs-muscle-up">}}
 
 ### 训练记录
 
@@ -483,11 +483,11 @@ tocBorder: true
 - 在这个位置暂停片刻，保持背部肌肉的挤压
 - 慢慢地将杠铃返回到起始位置，让手臂完全伸展，并感受到背阔肌的拉伸
 
-{{< figure src="workout-note/宽距高位下拉.gif" width="500px" caption="宽距高位下拉">}}
+{{< figure src="https://haiyankong.github.io/workout-note/宽距高位下拉.gif" width="500px" caption="宽距高位下拉">}}
 
 <center>
 <video width="280" controls>
-    <source src="workout-note/宽距高位下拉-注意事项.mp4" type="video/mp4">
+    <source src="https://haiyankong.github.io/workout-note/宽距高位下拉-注意事项.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -515,7 +515,7 @@ tocBorder: true
 - 腰背挺直，头稍微往前伸，往下拉杆子直至肩背
 - 下拉的时候注意控制，不要依靠惯性猛地往下拉
 
-{{< figure src="workout-note/颈后高位下拉.gif" width="500px" caption="颈后高位下拉">}}
+{{< figure src="https://haiyankong.github.io/workout-note/颈后高位下拉.gif" width="500px" caption="颈后高位下拉">}}
 
 ### 训练记录
 
@@ -547,9 +547,9 @@ tocBorder: true
 - 避免借助惯性，动作保持平稳连贯，在拉动和释放阶段都要控制重量，以最大化肌肉参与度
 - 面朝器械的时候，注意胳膊肘部往前顶
 
-{{< figure src="workout-note/杠杆交叉背阔肌下拉1.gif" width="500px" caption="杠杆交叉背阔肌下拉1">}}
+{{< figure src="https://haiyankong.github.io/workout-note/杠杆交叉背阔肌下拉1.gif" width="500px" caption="杠杆交叉背阔肌下拉1">}}
 
-{{< figure src="workout-note/杠杆交叉背阔肌下拉2.gif" width="500px" caption="杠杆交叉背阔肌下拉2">}}
+{{< figure src="https://haiyankong.github.io/workout-note/杠杆交叉背阔肌下拉2.gif" width="500px" caption="杠杆交叉背阔肌下拉2">}}
 
 ### 训练记录
 
@@ -577,7 +577,7 @@ tocBorder: true
 - 从上往下拉的时候可以用另外一只手摸着背外侧的肌肉，感受肌肉发力，这样还可以更好的保持身体稳定不晃动
 - 身体不要僵，可以适当侧倾身体
 
-{{< figure src="workout-note/单臂高位下拉.gif" width="500px" caption="单臂高位下拉">}}
+{{< figure src="https://haiyankong.github.io/workout-note/单臂高位下拉.gif" width="500px" caption="单臂高位下拉">}}
 
 ### 训练记录
 
@@ -605,13 +605,13 @@ tocBorder: true
 
 窄距坐姿划船
 
-{{< figure src="workout-note/坐姿划船1.gif" width="500px" caption="坐姿划船1">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿划船1.gif" width="500px" caption="坐姿划船1">}}
 
-{{< figure src="workout-note/坐姿划船2.gif" width="500px" caption="坐姿划船2">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿划船2.gif" width="500px" caption="坐姿划船2">}}
 
 宽距坐姿划船
 
-{{< figure src="workout-note/坐姿划船3.gif" width="500px" caption="坐姿划船3">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿划船3.gif" width="500px" caption="坐姿划船3">}}
 
 ### 训练记录
 
@@ -641,7 +641,7 @@ tocBorder: true
 - 自然抬头向前看，不要向前伸头
 - 拉住杆子向上抬起然后放下
 
-{{< figure src="workout-note/T 杆划船.gif" width="500px" caption="T 杆划船">}}
+{{< figure src="https://haiyankong.github.io/workout-note/T 杆划船.gif" width="500px" caption="T 杆划船">}}
 
 ### 训练记录
 
@@ -673,11 +673,11 @@ tocBorder: true
 - 借助背部力量将哑铃向上拉至躯干侧面，上臂靠近身体侧面，然后往上转，但是躯干不要往上拱起来，过程中要保持躯干静止
 - 然后将哑铃慢放回起始位置
 
-{{< figure src="workout-note/单臂哑铃划船.gif" width="500px" caption="单臂哑铃划船">}}
+{{< figure src="https://haiyankong.github.io/workout-note/单臂哑铃划船.gif" width="500px" caption="单臂哑铃划船">}}
 
-{{< figure src="workout-note/单臂哑铃划船-正误对比1.png" width="500px" caption="单臂哑铃划船-正误对比1">}}
+{{< figure src="https://haiyankong.github.io/workout-note/单臂哑铃划船-正误对比1.png" width="500px" caption="单臂哑铃划船-正误对比1">}}
 
-{{< figure src="workout-note/单臂哑铃划船-正误对比2.png" width="500px" caption="单臂哑铃划船-正误对比2">}}
+{{< figure src="https://haiyankong.github.io/workout-note/单臂哑铃划船-正误对比2.png" width="500px" caption="单臂哑铃划船-正误对比2">}}
 
 ### 训练记录
 
@@ -703,7 +703,7 @@ tocBorder: true
 - 快压慢回：控制回程，避免惯性，维持肌肉张力
 - 向下拉压时呼气（发力阶段），控制回放时吸气（放松阶段）
 
-{{< figure src="workout-note/直臂下压.gif" width="500px" caption="直臂下压">}}
+{{< figure src="https://haiyankong.github.io/workout-note/直臂下压.gif" width="500px" caption="直臂下压">}}
 
 ### 训练记录
 
@@ -728,7 +728,7 @@ tocBorder: true
 - 控制下放节奏：快推慢放，增加肌肉张力
 - 推起杠铃时呼气（发力时呼气，更有力），下放杠铃时吸气（胸腔扩张，增强稳定性）
 
-{{< figure src="workout-note/杠铃卧推.gif" width="500px" caption="杠铃卧推">}}
+{{< figure src="https://haiyankong.github.io/workout-note/杠铃卧推.gif" width="500px" caption="杠铃卧推">}}
 
 ### 训练记录
 
@@ -747,7 +747,7 @@ tocBorder: true
 - 下面动图图中的动作有点不对，注意不要撅屁股，而是把腰部往上拱起来，这样才会练到腹部且腰不累
 - 呼气的时候收肚子，吸气的时候保持不动
 
-{{< figure src="workout-note/前平板支撑.gif" width="500px" caption="前平板支撑">}}
+{{< figure src="https://haiyankong.github.io/workout-note/前平板支撑.gif" width="500px" caption="前平板支撑">}}
 
 ### 训练记录
 
@@ -769,7 +769,7 @@ tocBorder: true
 - 保持这个姿势几秒钟
 - 吸气时慢慢将双腿放回到悬挂位置，确保保持控制，不要让双腿摆动或使用动力
 
-{{< figure src="workout-note/船长椅直腿抬高.gif" width="500px" caption="船长椅直腿抬高">}}
+{{< figure src="https://haiyankong.github.io/workout-note/船长椅直腿抬高.gif" width="500px" caption="船长椅直腿抬高">}}
 
 ### 训练记录
 
@@ -792,9 +792,9 @@ tocBorder: true
 - 注意，是腹部转，不是胳膊转，扭转时也要稳定住臀部，避免臀部有过大的移动幅度
 - 将腹肌拉向脊柱，然后稍微向后倾斜，直到感觉腹肌处于平衡位置
 
-{{< figure src="workout-note/俄罗斯转体.gif" width="500px" caption="俄罗斯转体">}}
+{{< figure src="https://haiyankong.github.io/workout-note/俄罗斯转体.gif" width="500px" caption="俄罗斯转体">}}
 
-{{< figure src="workout-note/负重俄罗斯转体.gif" width="500px" caption="负重俄罗斯转体">}}
+{{< figure src="https://haiyankong.github.io/workout-note/负重俄罗斯转体.gif" width="500px" caption="负重俄罗斯转体">}}
 
 ### 训练记录
 
@@ -816,7 +816,7 @@ tocBorder: true
 - 保持这个姿势几秒钟，保持双腿和手臂尽可能伸直。
 - 慢慢地将身体放回起始位置，确保保持控制，不要让身体简单地落回地板上。
 
-{{< figure src="workout-note/V 型仰卧起坐.gif" width="500px" caption="V 型仰卧起坐">}}
+{{< figure src="https://haiyankong.github.io/workout-note/V 型仰卧起坐.gif" width="500px" caption="V 型仰卧起坐">}}
 
 ### 训练记录
 
@@ -836,7 +836,7 @@ tocBorder: true
 - 呼气起身向上举，注意胳膊要往上举到无法再往上了，胳膊要伸直
 - 吸气往回收，回收到腰部贴住器械即可，肩膀不需要再贴住器械了，然后再次循环上举
 
-{{< figure src="workout-note/负重上举.gif" width="500px" caption="负重上举">}}
+{{< figure src="https://haiyankong.github.io/workout-note/负重上举.gif" width="500px" caption="负重上举">}}
 
 ### 训练记录
 
@@ -854,7 +854,7 @@ tocBorder: true
 
 4 组，每组 12 到 20 个
 
-{{< figure src="workout-note/仰卧抬腿.gif" width="500px" caption="仰卧抬腿">}}
+{{< figure src="https://haiyankong.github.io/workout-note/仰卧抬腿.gif" width="500px" caption="仰卧抬腿">}}
 
 ### 训练记录
 
@@ -876,7 +876,7 @@ tocBorder: true
 - 注意整个过程中，要去感受侧腹部肌肉被拉伸
 - 注意上半身以及头不要往前，想象后面有一堵墙需要靠住
 
-{{< figure src="workout-note/罗马椅负重侧腹.gif" width="500px" caption="罗马椅负重侧腹">}}
+{{< figure src="https://haiyankong.github.io/workout-note/罗马椅负重侧腹.gif" width="500px" caption="罗马椅负重侧腹">}}
 
 ### 训练记录
 
@@ -947,7 +947,7 @@ tocBorder: true
 - 向下蹲的时候，注意先屈髋，然后下蹲，下蹲到臀部不眨眼位置
 - 双脚使劲往上起，保证膝盖稳定不晃动，注意要慢起身，即快远心、慢离心
 
-{{< figure src="workout-note/高脚杯深蹲.gif" width="500px" caption="高脚杯深蹲">}}
+{{< figure src="https://haiyankong.github.io/workout-note/高脚杯深蹲.gif" width="500px" caption="高脚杯深蹲">}}
 
 ### 训练记录
 
@@ -975,7 +975,7 @@ tocBorder: true
 - **整个过程腰要挺直**！
 - 动作流畅，不要做太快
 
-{{< figure src="workout-note/史密斯相扑深蹲.gif" width="500px" caption="史密斯相扑深蹲">}}
+{{< figure src="https://haiyankong.github.io/workout-note/史密斯相扑深蹲.gif" width="500px" caption="史密斯相扑深蹲">}}
 
 ### 训练记录
 
@@ -1005,7 +1005,7 @@ tocBorder: true
 - 注意要慢起身，即快远心、慢离心
 - 做完要注意脚踩器材前面的踏板，把器材锁住再下来
 
-{{< figure src="workout-note/反向哈克机深蹲.gif" width="500px" caption="反向哈克机深蹲">}}
+{{< figure src="https://haiyankong.github.io/workout-note/反向哈克机深蹲.gif" width="500px" caption="反向哈克机深蹲">}}
 
 ### 训练记录
 - 2025 年 03 月 29 日，4 组，每组 8 个，5kg* 2
@@ -1023,7 +1023,7 @@ tocBorder: true
 - 下蹲，小腿和地面垂直，保持腰背挺直
 - 双手往上提起来杆子，注意手臂不要用力，往上提的同时把力量往臀部传导，臀部收紧
 
-{{< figure src="workout-note/史密斯硬拉.gif" width="500px" caption="史密斯硬拉">}}
+{{< figure src="https://haiyankong.github.io/workout-note/史密斯硬拉.gif" width="500px" caption="史密斯硬拉">}}
 
 ### 训练记录
 
@@ -1043,7 +1043,7 @@ tocBorder: true
 - 双腿自然打开，双膝盖平直放置，膝盖朝前
 - 快抬慢放：抬腿至水平于地面，然后控制住慢慢放下来，放到三分之二即可
 
-{{< figure src="workout-note/坐姿腿屈伸.gif" width="500px" caption="坐姿腿屈伸">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿腿屈伸.gif" width="500px" caption="坐姿腿屈伸">}}
 
 ### 训练记录
 
@@ -1068,11 +1068,11 @@ tocBorder: true
 - 双腿自然打开，双膝盖平直放置，膝盖朝前
 - 快压慢放：往里面收腿，注意一定要收到底，稍停顿一会，然后控制住慢慢抬起来，抬的位置不要太高，略微和地面有点锐角就行，或者说抬到三分之二即可
 
-{{< figure src="workout-note/坐姿腿弯举.gif" width="500px" caption="坐姿腿弯举">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿腿弯举.gif" width="500px" caption="坐姿腿弯举">}}
 
 <center>
 <video width="280" controls>
-    <source src="workout-note/坐姿腿弯举.mp4" type="video/mp4">
+    <source src="https://haiyankong.github.io/workout-note/坐姿腿弯举.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -1103,9 +1103,9 @@ tocBorder: true
 - 中间不要停，立刻回收，但是回收的时候要慢，即快推慢回
 - 往回收的时候，膝盖不要乱晃，既不要内扣，也不要往外展开，要和脚尖处于同一线，回的话要收到最初始状态
 
-{{< figure src="workout-note/器械倒蹬1.gif" width="500px" caption="器械倒蹬1">}}
+{{< figure src="https://haiyankong.github.io/workout-note/器械倒蹬1.gif" width="500px" caption="器械倒蹬1">}}
 
-{{< figure src="workout-note/器械倒蹬2.png" width="500px" caption="器械倒蹬2">}}
+{{< figure src="https://haiyankong.github.io/workout-note/器械倒蹬2.png" width="500px" caption="器械倒蹬2">}}
 
 ### 训练记录
 
@@ -1130,7 +1130,7 @@ tocBorder: true
 - 快速向外打开，缓慢向内收，控制器械慢回
 - 每一组的最后一个也可以保持向外打开的状态十秒，或者每一组最后一个，不要完全回去，保持小幅度收放
 
-{{< figure src="workout-note/坐姿髋外展.gif" width="500px" caption="坐姿髋外展">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿髋外展.gif" width="500px" caption="坐姿髋外展">}}
 
 ### 训练记录
 
@@ -1154,7 +1154,7 @@ tocBorder: true
 
 要点同 坐姿髋外展
 
-{{< figure src="workout-note/坐姿髋内收.gif" width="500px" caption="坐姿髋内收">}}
+{{< figure src="https://haiyankong.github.io/workout-note/坐姿髋内收.gif" width="500px" caption="坐姿髋内收">}}
 
 ### 训练记录
 
@@ -1179,11 +1179,11 @@ tocBorder: true
 - 保持腰背挺直，右胳膊放在左脚的前侧，然后往下放，身体往下压，但是注意左腿的膝盖不要往前弓，要往后送左臀，动作幅度大一些
 - 然后反过来做另外的腿
 
-{{< figure src="workout-note/哑铃保加利亚分腿深蹲.gif" width="500px" caption="哑铃保加利亚分腿深蹲">}}
+{{< figure src="https://haiyankong.github.io/workout-note/哑铃保加利亚分腿深蹲.gif" width="500px" caption="哑铃保加利亚分腿深蹲">}}
 
 <center>
 <video width="280" controls>
-    <source src="workout-note/哑铃保加利亚分腿深蹲.mp4" type="video/mp4">
+    <source src="https://haiyankong.github.io/workout-note/哑铃保加利亚分腿深蹲.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -1205,7 +1205,7 @@ tocBorder: true
 - 起立时身体不要前倾，要保持正直
 - 详细细节可参考“箭步蹲加转体”，箭步蹲的动作要点是一致的
 
-{{< figure src="workout-note/哑铃箭步蹲.gif" width="500px" caption="哑铃箭步蹲">}}
+{{< figure src="https://haiyankong.github.io/workout-note/哑铃箭步蹲.gif" width="500px" caption="哑铃箭步蹲">}}
 
 ### 训练记录
 
@@ -1228,19 +1228,19 @@ tocBorder: true
 - 假如左腿往前迈步，那么右手掰住左膝盖，然后左侧胳膊水平（一定要水平，不要越往外展胳膊越往下）向后打开，此时注意感受脊椎随之也在转动
 - 双脚同时发力蹬地，挺起身体，后腿跟进到前腿位置
 
-{{< figure src="workout-note/弓箭步1.png" width="500px" caption="弓箭步1">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弓箭步1.png" width="500px" caption="弓箭步1">}}
 
-{{< figure src="workout-note/弓箭步2.png" width="500px" caption="弓箭步2">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弓箭步2.png" width="500px" caption="弓箭步2">}}
 
-{{< figure src="workout-note/弓箭步3.png" width="500px" caption="弓箭步3">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弓箭步3.png" width="500px" caption="弓箭步3">}}
 
-{{< figure src="workout-note/弓箭步4.png" width="500px" caption="弓箭步4">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弓箭步4.png" width="500px" caption="弓箭步4">}}
 
-{{< figure src="workout-note/弓箭步5.png" width="500px" caption="弓箭步5">}}
+{{< figure src="https://haiyankong.github.io/workout-note/弓箭步5.png" width="500px" caption="弓箭步5">}}
 
-{{< figure src="workout-note/行进箭步蹲.gif" width="500px" caption="行进箭步蹲">}}
+{{< figure src="https://haiyankong.github.io/workout-note/行进箭步蹲.gif" width="500px" caption="行进箭步蹲">}}
 
-{{< figure src="workout-note/箭步蹲加转体.gif" width="500px" caption="箭步蹲加转体">}}
+{{< figure src="https://haiyankong.github.io/workout-note/箭步蹲加转体.gif" width="500px" caption="箭步蹲加转体">}}
 
 ### 训练记录
 
@@ -1266,9 +1266,9 @@ tocBorder: true
 
 # 肌肉
 
-{{< figure src="workout-note/背部.jpg" width="500px" caption="背部">}}
+{{< figure src="https://haiyankong.github.io/workout-note/背部.jpg" width="500px" caption="背部">}}
 
-{{< figure src="workout-note/胸部.jpg" width="500px" caption="胸部">}}
+{{< figure src="https://haiyankong.github.io/workout-note/胸部.jpg" width="500px" caption="胸部">}}
 
 # 运动后拉伸
 
@@ -1278,49 +1278,49 @@ tocBorder: true
 
 #### 上背部
 
-{{< figure src="workout-note/泡沫轴-上背部.png" width="500px" caption="泡沫轴-上背部">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-上背部.png" width="500px" caption="泡沫轴-上背部">}}
 
 #### 肩胛骨
 
-{{< figure src="workout-note/泡沫轴-肩胛骨.png" width="500px" caption="泡沫轴-肩胛骨">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-肩胛骨.png" width="500px" caption="泡沫轴-肩胛骨">}}
 
 #### 下背部
 
-{{< figure src="workout-note/泡沫轴-下背部.png" width="500px" caption="泡沫轴-下背部">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-下背部.png" width="500px" caption="泡沫轴-下背部">}}
 
 ### 臀腿
 
 #### 臀外侧
 
-{{< figure src="workout-note/泡沫轴-臀外侧.png" width="500px" caption="泡沫轴-臀外侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-臀外侧.png" width="500px" caption="泡沫轴-臀外侧">}}
 
 #### 大腿前侧
 
-{{< figure src="workout-note/泡沫轴-大腿前侧.png" width="500px" caption="泡沫轴-大腿前侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-大腿前侧.png" width="500px" caption="泡沫轴-大腿前侧">}}
 
 #### 大腿外侧
 
-{{< figure src="workout-note/泡沫轴-大腿外侧.png" width="500px" caption="泡沫轴-大腿外侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-大腿外侧.png" width="500px" caption="泡沫轴-大腿外侧">}}
 
 #### 大腿内侧
 
-{{< figure src="workout-note/泡沫轴-大腿内侧.png" width="500px" caption="泡沫轴-大腿内侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-大腿内侧.png" width="500px" caption="泡沫轴-大腿内侧">}}
 
 #### 大腿后侧
 
-{{< figure src="workout-note/泡沫轴-大腿后侧.png" width="500px" caption="泡沫轴-大腿后侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-大腿后侧.png" width="500px" caption="泡沫轴-大腿后侧">}}
 
 #### 小腿后侧
 
-{{< figure src="workout-note/泡沫轴-小腿后侧.png" width="500px" caption="泡沫轴-小腿后侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-小腿后侧.png" width="500px" caption="泡沫轴-小腿后侧">}}
 
 #### 小腿内侧
 
-{{< figure src="workout-note/泡沫轴-小腿内侧.png" width="500px" caption="泡沫轴-小腿内侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-小腿内侧.png" width="500px" caption="泡沫轴-小腿内侧">}}
 
 #### 小腿外侧
 
-{{< figure src="workout-note/泡沫轴-小腿外侧.png" width="500px" caption="泡沫轴-小腿外侧">}}
+{{< figure src="https://haiyankong.github.io/workout-note/泡沫轴-小腿外侧.png" width="500px" caption="泡沫轴-小腿外侧">}}
 
 # 注意点
 
