@@ -174,6 +174,13 @@ tocBorder: true
 
 # 肩部 / Shoulders
 
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/肩部动作.mp4" type="video/mp4">
+</video>
+</center>
+
+
 ## 肩外旋 / Band external shoulder rotation
 
 目的：激活和强化肩袖肌群
@@ -292,8 +299,13 @@ tocBorder: true
 
 ### 训练记录
 
-
 # 肱二头肌 / Biceps
+
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/肱二头肌动作.mp4" type="video/mp4">
+</video>
+</center>
 
 ## 直臂弯举 / Cable Bicep Curl Standards
 
@@ -375,8 +387,13 @@ tocBorder: true
 - [https://weighttraining.guide/exercises/dumbbell-curl/](https://weighttraining.guide/exercises/dumbbell-curl/)
 - [https://lyfta.app/zh-CN/ex/8j](https://lyfta.app/zh-CN/ex/8j)
 
-
 # 肱三头肌 / Triceps
+
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/肱三头肌动作.mp4" type="video/mp4">
+</video>
+</center>
 
 ## 绳索三头肌下压 /Cable Triceps Pushdown
 
@@ -435,6 +452,12 @@ tocBorder: true
 - [https://lyfta.app/zh-CN/ex/7sh](https://lyfta.app/zh-CN/ex/7sh)
 
 # 背部 / Back
+
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/背部动作.mp4" type="video/mp4">
+</video>
+</center>
 
 ## 辅助引体向上 / Assisted Pull-up
 
@@ -893,6 +916,12 @@ tocBorder: true
 - 2025 年 06 月 07 日，2 组，每一侧 1 组，每组 10 个，2.5kg
 
 # 臀腿
+
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/腿部动作.mp4" type="video/mp4">
+</video>
+</center>
 
 ## 概述
 
