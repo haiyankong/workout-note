@@ -452,6 +452,12 @@ tocBorder: true
 
 {{< figure src="https://haiyankong.github.io/workout-note/pull-up-vs-muscle-up.gif" width="500px" caption="pull-up-vs-muscle-up">}}
 
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/引体把位.mp4" type="video/mp4">
+</video>
+</center>
+
 ### 训练记录
 
 - 最终重量要和体重一致
@@ -462,9 +468,10 @@ tocBorder: true
 - 2025 年 06 月 14 日，前 2 组 54kg，每组 18 个，后 2 组 49.5 kg 每组 8 个
 - 2025 年 06 月 16 日，前 2 组 49.5kg 每组 12 个，后 2 组 54 kg，每组 20 个
 - 2025 年 07 月 10 日，4 组，每组 15 个，45kg（该重量可能不准）
-- 2025 年 08 月 24 日，4 组，前两组 7 挡位，每组 20 个，前两组 6 挡位，每组 15 个
-- 2025 年 08 月 29 日，6 组，前两组 7 挡位，每组 20 个，前四组 6 挡位，每组 12 个
-- 2025 年 09 月 19 日，2 组，前两组 7 挡位，每组 25 个，前两组 6 挡位，每组 10 个
+- 2025 年 08 月 24 日，2 组-7 挡位-20 个，2 组-6 挡位-15 个
+- 2025 年 08 月 29 日，2 组-7 挡位-20 个，2 组-6 挡位-12 个
+- 2025 年 09 月 19 日，2 组-7 挡位-25 个，2 组-6 挡位-10 个
+- 2025 年 09 月 22 日，1 组-7 挡位-10 个，3 组-6 挡位-10 个
 
 ### 动作参考
 
@@ -622,7 +629,8 @@ tocBorder: true
 - 2025 年 04 月 13 日，4 组，每组 15 个
 - 2025 年 04 月 29 日
 - 2025 年 06 月 07 日，窄距坐姿划船，4 组，前两组每组 18 个，17.5kg；后两组每组 12 个，20kg
-- 2025 年 09 月 19 日，4 组，16.3kg，15 个
+- 2025 年 09 月 19 日，4 组-16.3kg-15 个
+- 2025 年 09 月 22 日，4 组-16.3kg-15 个
 
 ### 动作参考
 
@@ -1107,6 +1115,12 @@ tocBorder: true
 
 {{< figure src="https://haiyankong.github.io/workout-note/器械倒蹬2.png" width="500px" caption="器械倒蹬2">}}
 
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/器械倒蹬.mp4" type="video/mp4">
+</video>
+</center>
+
 ### 训练记录
 
 - 2025 年 03 月 24 日
@@ -1114,6 +1128,7 @@ tocBorder: true
 - 2025 年 04 月 13 日，前 2 组 40kg 每组 12 个，后 2 组 30 kg，每组 15 个
 - 2025 年 06 月 16 日，前 2 组 30kg 每组 15 个，后 2 组 40 kg，每组 15 个
 - 2025 年 06 月 29 日，4 组，每组 15 个，40kg
+- 2025 年 09 月 22 日，1 组-36kg-25 个，3 组-41kg-20 个，1组-41kg-30 个
 
 ### 动作参考
 
@@ -1131,6 +1146,12 @@ tocBorder: true
 - 每一组的最后一个也可以保持向外打开的状态十秒，或者每一组最后一个，不要完全回去，保持小幅度收放
 
 {{< figure src="https://haiyankong.github.io/workout-note/坐姿髋外展.gif" width="500px" caption="坐姿髋外展">}}
+
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/坐姿髋外展.mp4" type="video/mp4">
+</video>
+</center>
 
 ### 训练记录
 
@@ -1162,6 +1183,7 @@ tocBorder: true
 - 2025 年 04 月 05 日，20kg
 - 2025 年 08 月 29 日，4 组，每组 20 个，20kg
 - 2025 年 09 月 12 日，6 组，1 组-20kg-20 个，1 组-23kg-20 个，2 组-25kg-20 个，2 组-27kg-15 个
+- 2025 年 09 月 22 日，6 组，1 组-25kg-25 个，3 组-27kg-25 个
 
 ### 动作参考
 
@@ -1184,6 +1206,12 @@ tocBorder: true
 <center>
 <video width="280" controls>
     <source src="https://haiyankong.github.io/workout-note/哑铃保加利亚分腿深蹲.mp4" type="video/mp4">
+</video>
+</center>
+
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/哑铃保加利亚分腿深蹲2.mp4" type="video/mp4">
 </video>
 </center>
 
@@ -1344,13 +1372,13 @@ tocBorder: true
 
 4 组可以可以逐步减重，加数量，也可以反着
 
-## 健身发力感 tips
+# 健身发力感 tips
 
-### 核心收紧
+## 核心收紧
 
 咳嗽时肚子瞬间绷紧的发力感（不是单纯吸肚子！）
 
-### 正确屈髋
+## 正确屈髋
 
 • 想象身后有凳子，屁股先「往后坐」（别弯腰！）
 
@@ -1358,31 +1386,37 @@ tocBorder: true
 
 屁股后移≠塌腰，腰别松！
 
-### 沉肩不耸肩
+## 沉肩不耸肩
 
 • 想象腋下「夹体温计」，肩膀自然下沉（别用力夹！）
 
 • 深吸气→叹气，感受肩膀「掉下来」，斜方肌放松。
 
-### 肋骨下沉
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/沉肩.mp4" type="video/mp4">
+</video>
+</center>
+
+## 肋骨下沉
 
 • 嘴巴深吸气，充满胸腔→想象吹灭面前蜡烛，缓慢吐气
 
 • 吐气时，肋骨主动「往下沉」，别让胸口「凸出来」。
 
-### 臀部发力
+## 臀部发力
 
 想象「屁屁夹着一张纸」，用力夹紧保持纸不掉落，深蹲/硬拉时全程「夹纸感」。
 
-### 硬拉收背
+## 硬拉收背
 
 想象腋下夹一块「海绵」，用力挤压海绵「出水」，背部绷紧如「铁板」，避免圆肩弓背。
 
-### 高位下拉找背感
+## 高位下拉找背感
 
 双手「掰断杆子」的发力感，大臂贴近身体，用背阔肌「拉」动身体，不是用手臂「拽」！
 
-### 肩胛骨稳定
+## 肩胛骨稳定
 
 想象肩胛骨「贴在后背」，与背部在同一平面，像「背了块平板」，避免耸肩或过度后缩。
 
