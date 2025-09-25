@@ -1014,6 +1014,12 @@ tocBorder: true
 
 {{< figure src="https://haiyankong.github.io/workout-note/史密斯相扑深蹲.gif" width="500px" caption="史密斯相扑深蹲">}}
 
+<center>
+<video width="280" controls>
+    <source src="https://haiyankong.github.io/workout-note/史密斯相扑深蹲.mp4" type="video/mp4">
+</video>
+</center>
+
 ### 训练记录
 
 - 2025 年 05 月 10 日，4 组，每组 15 个，5kg*2
